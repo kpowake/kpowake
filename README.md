@@ -1,2 +1,1 @@
-- ![](https://www.google.com/s2/favicons?domain=monkeytype.com) Monkeytype: 98wpm 98%acc (time 60s)
-- 
+- ![](https://www.google.com/s2/favicons?domain=monkeytype.com) Monkeytype 》 98wpm 98%acc (time 60s)
