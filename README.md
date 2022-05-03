@@ -1,1 +1,1 @@
-- ![](https://www.google.com/s2/favicons?domain=monkeytype.com) Monkeytype 》 104wpm 97%acc (time 60s) https://user-images.githubusercontent.com/104589398/166142325-26f40886-f1c7-4733-8fd6-4d885392540b.png
+Contact: p0aks@proton.me
